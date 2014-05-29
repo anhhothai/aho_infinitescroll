@@ -3,7 +3,9 @@ aho_infinitescroll
 
 OXID eShop - A module to implement basic Infinite Scrolling functionality for artile list.
 
-#### OXID Version should be 4.7+
+**Requirement**
+
+- OXID Version should be 4.7+. I recommend to use the version 4.8+.
 
 TO IMPLEMENT THIS MODULE PROPERLY, PLEASE FOLLOW BELOW STEPS:
  - Clear folder `tmp`.
