@@ -1,7 +1,7 @@
 aho_infinitescroll
 ==================
 
-OXID eShop - A module to implement basic Infinite Scrolling functionality for artile list.
+OXID eShop - A module to implement basic Infinite Scrolling functionality for article list.
 
 **Requirement**
 
